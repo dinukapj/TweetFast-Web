@@ -9370,3 +9370,15 @@ footer.footer-7 {
   background: #404040 !important;
   border-color: #404040 !important;
 }
+
+.bg--twitter {
+  background: #03A9F4 !important;
+}
+
+.txt-twitter {
+  color: rgb(2, 134, 196) !important;  
+}
+
+.text-22-mt {
+  font-size: 22px;
+}
